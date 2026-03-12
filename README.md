@@ -1,6 +1,6 @@
 # Exp Auditing Cloud Activity Using AWS CloudTrail
-# Name: Ajay J
-# Reg No: 212224110003
+# Name: Thamizharasi G
+# Reg No: 212224100059
 ## Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
 ## Requirements
